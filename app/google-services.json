@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887411525941",
+    "project_id": "mywardrobe-43f3d",
+    "storage_bucket": "mywardrobe-43f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887411525941:android:9b4601847ebc26f0dba47c",
+        "android_client_info": {
+          "package_name": "com.aliarslanpay.mywardrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887411525941-e0f0m2c7a76qtlp9lj6njrt2f1egde0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VkIm4xoHrqVoZj1YxZRMimItH8lgdfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887411525941-e0f0m2c7a76qtlp9lj6njrt2f1egde0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
